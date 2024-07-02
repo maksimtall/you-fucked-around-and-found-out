@@ -8,5 +8,5 @@
 1.  discord user ID
 2.  discord user link
 3.  IP address
-4.  begining of discord bot token
+4.  begining of discord token
 5.  (maybe some more stuff i find)
