@@ -9,5 +9,4 @@
 2.  discord user link
 3.  IP address
 4.  begining of discord bot token
-5.  google drive link to all of the sus screenshots
-6.  (maybe some more stuff i find)
+5.  (maybe some more stuff i find)
